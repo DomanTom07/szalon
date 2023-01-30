@@ -1,0 +1,19 @@
+{
+    "vehicles":[
+        {
+            "licenseplate": "AA-CA-381",
+            "brand": "Opel",
+            "price": 2300
+        },
+        {
+            "licenseplate": "AA-CA-382",
+            "brand": "Ford",
+            "price": 2100
+        },
+        {
+            "licenseplate": "AA-CA-383",
+            "brand": "BMW",
+            "price": 2500
+        }
+    ]
+}
